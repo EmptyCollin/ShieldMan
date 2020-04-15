@@ -11,7 +11,7 @@ To test:
 	2. Run the scene
 	3. Input parameters to create lasers
 	4. Set the parameters  for Genetic Algorithm to generate AI reaction
-	5. The results are showing on right-top of screen in real-time
+	5. The results are updated on screen in real-time
 
 	* Left button and scroll of mouse can be used to adjust view direction.
 
